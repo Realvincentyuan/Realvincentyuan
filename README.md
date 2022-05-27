@@ -29,7 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realvincentyuan&show_icons=true&locale=en" alt="realvincentyuan" /></p>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
