@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [BulletTech](https://github.com/BulletTech)
 
-- 📝 I regularly write articles on [[vincentyuan](https://vincentyuan.us/)](https://vincentyuan.us/)
+- 📝 I regularly write articles on [https://vincentyuan.us/](https://vincentyuan.us/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Knowledge Graph**
 
