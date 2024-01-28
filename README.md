@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realvincentyuan&label=Profile%20views&color=0e75b6&style=flat" alt="realvincentyuan" /> </p>
 
-- 🔭 I’m currently working on [BulletTech](https://github.com/BulletTech)
+- 🔭 I’m currently working on [Spacecraft](https://github.com/Realvincentyuan/Spacecraft)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Knowledge Graph**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Knowledge Graph, GenAI**
 
-- 👯 I’m looking to collaborate on [BulletTech](https://github.com/BulletTech)
+- 👯 I’m looking to collaborate on [Spacecraft](https://github.com/Realvincentyuan/Spacecraft)
 
 - 📝 I regularly write articles on [https://vincentyuan.us/](https://vincentyuan.us/)
 
