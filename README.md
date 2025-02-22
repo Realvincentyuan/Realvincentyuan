@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Spacecraft](https://github.com/Realvincentyuan/Spacecraft)
 
-- 📝 I regularly write articles on [https://vincentyuan.us/](https://vincentyuan.us/)
+- 📝 I regularly write articles on [My blog - Spacecraft]([https://vincentyuan.us/](https://realvincentyuan.github.io/Spacecraft/))
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Knowledge Graph**
 
