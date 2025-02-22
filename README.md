@@ -16,10 +16,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Home](https://bullettech.github.io/BulletTech/)
-- [关于BulletTech](https://bullettech.github.io/BulletTech/About_us/)
+- [About BulletTech](https://bullettech.github.io/BulletTech/About_us/)
 - [Intro](https://bullettech.github.io/BulletTech/Dessert_blog_intro/)
 - [Intro](https://bullettech.github.io/BulletTech/Main_course_blog_intro/)
-- [我们的故事](https://bullettech.github.io/BulletTech/Our_story/)
+- [Our Story](https://bullettech.github.io/BulletTech/Our_story/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
